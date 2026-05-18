@@ -19,9 +19,9 @@ The browser blocks automated input on pages that haven't received user focus.
 
 ## Settings
 
-- **Depth** — how deep the engine searches. Higher = stronger but slower. 15 is a good default.
-- **Max Elo** — caps the engine strength. ∞ = full Stockfish power.
-- **Auto Move** — plays the best move automatically after the delay.
-- **Move Delay** — how long to wait before playing the move.
-- **Max Rand Delay** — adds a random extra delay on top, so it looks more human.
-- **Side** — Auto detects your color, or force White/Black manually.
+- **Depth** - how deep the engine searches. Higher = stronger but slower. 15 is a good default.
+- **Max Elo** - caps the engine strength. ∞ = full Stockfish power.
+- **Auto Move** - plays the best move automatically after the delay.
+- **Move Delay** - how long to wait before playing the move.
+- **Max Rand Delay** - adds a random extra delay on top, so it looks more human.
+- **Side** - Auto detects your color, or force White/Black manually.
